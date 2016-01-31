@@ -4,7 +4,7 @@
 
 统一插件联系方式为:[help@yuecode.org](mailto:help@yuecode.org)
 
-统一插件主页为:www.yuecode.org
+统一插件主页为:yuecode.org
 
 #### Discuz
 
